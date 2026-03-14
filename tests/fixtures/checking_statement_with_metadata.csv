@@ -1,0 +1,14 @@
+Description,,Summary Amt.
+Beginning balance as of 01/01/2026,,"1,500.00"
+Total credits,,"1,342.00"
+Total debits,,"-412.89"
+Ending balance as of 01/10/2026,,"2,429.11"
+
+Date,Description,Amount,Running Bal.
+01/01/2026,Beginning balance as of 01/01/2026,,"1,500.00"
+01/02/2026,"POWER UTILITY DES:WEB_PAY ID:XXXXX11111 INDN:IMPORT TEST CO ID:XXXXX22222 WEB","-120.55","1,379.45"
+01/03/2026,"Zelle payment from Taylor Example for dinner; Conf# zelle1234","42.00","1,421.45"
+01/04/2026,"Online Banking transfer from CHK 1111 Confirmation# ABC123456","1,000.00","2,421.45"
+01/05/2026,"Online Banking payment to CRD 2222 Confirmation# PAY222333","-200.34","2,221.11"
+01/06/2026,"Monthly Maintenance Fee","-12.00","2,209.11"
+01/10/2026,"Mobile Deposit #4444","220.00","2,429.11"
