@@ -16,7 +16,7 @@ Either export env vars:
 
 ```bash
 export FIREFLY_URL="https://your-firefly-host"
-export FIREFLY_TOKEN="your-personal-access-token"
+export FIREFLY_TOKEN="<personal-access-token>"
 ```
 
 Or create a project-root `FIREFLY.yaml` from the tracked example:
@@ -29,7 +29,7 @@ Supported YAML keys:
 
 ```yaml
 firefly_url: https://your-firefly-host
-firefly_personal_access_token: your-personal-access-token
+firefly_personal_access_token: <personal-access-token>
 ```
 
 `FIREFLY.yaml` is git-ignored. `FIREFLY.example.yaml` is tracked.

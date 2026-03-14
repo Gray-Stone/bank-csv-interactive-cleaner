@@ -65,7 +65,7 @@ class FixtureFlowTests(unittest.TestCase):
         self.assertEqual(payment.type, "deposit")
         self.assertEqual(payment.source_account, "CHK 4444")
         self.assertEqual(payment.destination_account, "Rewards Card 6303")
-        self.assertEqual(payment.external_id, "30000000000000000000003")
+        self.assertEqual(payment.external_id, "REF00003")
 
     def test_xlsx_fixture_loads_and_parses_first_sheet(self) -> None:
         """Test that the XLSX fixture loads and exposes the activity header row."""

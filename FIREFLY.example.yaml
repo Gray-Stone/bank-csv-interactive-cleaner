@@ -1,2 +1,2 @@
 firefly_url: https://your-firefly-host
-firefly_personal_access_token: replace-with-your-personal-access-token
+firefly_personal_access_token: <personal-access-token>

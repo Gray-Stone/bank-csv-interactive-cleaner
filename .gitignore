@@ -7,3 +7,5 @@ runtime_data/
 runtime_data/private-examples/
 .pytest_cache/
 FIREFLY.yaml
+
+.vscode/
