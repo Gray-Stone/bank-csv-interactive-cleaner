@@ -59,3 +59,15 @@ Generated runtime data is stored in:
 
 - `--profile` is optional for CSV imports. If omitted, the tool tries to auto-detect a matching profile from header signatures.
 - Review is done in a Textual TUI and requires an interactive terminal (TTY).
+
+## Screenshots
+
+The screenshots below use a mock test dataset. They do not contain live personal banking data.
+
+### Interactive review
+
+![Interactive review TUI](example-review.png)
+
+### Upload and pairing
+
+![Upload and pairing TUI](example-upload-view.png)
